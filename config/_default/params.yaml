@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ footer:
   copyright:
     notice: '© {year} LiHao. This work is licensed under {license}'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
