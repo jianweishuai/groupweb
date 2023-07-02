@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 帅建伟课题组 # Website name
-baseURL: 'https://shuaijianweigroup.github.io/ShauijianweiGroup/' # Website URL
+baseURL: 'https://jianweishuai.github.io/groupweb/' # Website URL
 params:
   Subtitle: ""
   

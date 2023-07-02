@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | 帅建伟课题组</title>
-    <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/post/</link>
-      <atom:link href="https://shuaijianweigroup.github.io/ShauijianweiGroup/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jianweishuai.github.io/groupweb/post/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shuaijianweigroup.github.io/ShauijianweiGroup/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Latest News</title>
-      <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/post/</link>
+      <link>https://jianweishuai.github.io/groupweb/post/</link>
     </image>
     
     <item>
       <title>2023国际软物质前沿研讨会成功举行</title>
-      <link>https://shuaijianweigroup.github.io/ShauijianweiGroup/post/20-12-02-icml-best-paper/</link>
+      <link>https://jianweishuai.github.io/groupweb/post/20-12-02-icml-best-paper/</link>
       <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://shuaijianweigroup.github.io/ShauijianweiGroup/post/20-12-02-icml-best-paper/</guid>
+      <guid>https://jianweishuai.github.io/groupweb/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;软物质是跨越物理、化学、生物、生命科学和工程等领域的重要前沿交叉学科，是推动现代科学技术创新发展的重要途径之一。&lt;/p&gt;
 &lt;p&gt;4月8日，2023年国际软物质前沿研讨会在国科温州研究院成功举行。美国科学院院士、美国艺术与科学学院院士、美国工程院院士、中国工程院外籍院士、哈佛大学David A. Weitz教授，中国工程院院士陈建峰教授，欧洲科学院院士汪劲教授，香港浸会大学汤雷翰教授，复旦大学陈国颂教授等50余位国内外专家齐聚温州，共同探讨前沿软物质，促进学科交叉共融。国科温州研究院副院长叶方富致欢迎词。&lt;br/&gt;
 “我的实验室每天都会有很多人来交流，我很乐意和他们分享，包括我的想法，最新的研究情况，我不怕自己的idea被偷走&amp;hellip;&amp;hellip;”分享、交流、合作是科学研究的重要精神态度，David A. Weitz 教授以他自身经历正式开启了本届研讨会的大幕。
@@ -39,10 +39,10 @@
 &lt;figure  id=&#34;figure-david-a-weitz&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;这是图片&#34; srcset=&#34;
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_15ca5c847cba5e0c4b130c4eb57d71b3.webp 400w,
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_5f67250149c165bb0de4c5c0fa5447c9.webp 760w,
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://shuaijianweigroup.github.io/ShauijianweiGroup/ShauijianweiGroup/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_15ca5c847cba5e0c4b130c4eb57d71b3.webp&#34;
+               /groupweb/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_15ca5c847cba5e0c4b130c4eb57d71b3.webp 400w,
+               /groupweb/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_5f67250149c165bb0de4c5c0fa5447c9.webp 760w,
+               /groupweb/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://jianweishuai.github.io/groupweb/groupweb/post/20-12-02-icml-best-paper/2_hu9a5fb28c7ff1a09c573cc4fc9b3a4579_382202_15ca5c847cba5e0c4b130c4eb57d71b3.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -92,10 +92,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;这是图片&#34; srcset=&#34;
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_4b1fd8688d40c3ad2b8ef926e162534f.webp 400w,
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_8b1a6d5f18b059b92db17f9b39b9c0b6.webp 760w,
-               /ShauijianweiGroup/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://shuaijianweigroup.github.io/ShauijianweiGroup/ShauijianweiGroup/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_4b1fd8688d40c3ad2b8ef926e162534f.webp&#34;
+               /groupweb/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_4b1fd8688d40c3ad2b8ef926e162534f.webp 400w,
+               /groupweb/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_8b1a6d5f18b059b92db17f9b39b9c0b6.webp 760w,
+               /groupweb/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://jianweishuai.github.io/groupweb/groupweb/post/20-12-02-icml-best-paper/3_hu5438825b9b6d1014226d20d231e650c2_136523_4b1fd8688d40c3ad2b8ef926e162534f.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
