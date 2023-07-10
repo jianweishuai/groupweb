@@ -1,7 +1,7 @@
 ---
-title: 'Regulation of 1, 4, 5-triphosphate receptor channel
-gating dynamics by mutant presenilin in
-Alzheimer’s disease cells'
+title: 'Stress responsive miR-31 is a major
+modulator of mouse intestinal stem cells
+during regeneration and tumorigenesis'
 authors:
   - Fang Wei
   - Xiang Li

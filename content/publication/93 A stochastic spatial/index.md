@@ -1,5 +1,7 @@
 ---
-title: 'Entropically modified spiking ability and periodicity in clustered channels'
+title: 'A stochastic spatial model of HIV dynamics with
+an asymmetric battle between the virus and the
+immune system'
 authors:
   - Hai Lin
   - J W Shuai

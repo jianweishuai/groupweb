@@ -1,7 +1,5 @@
 ---
-title: 'Poor Prognosis With Coexistence Of EGFR
-T790M Mutation And Common EGFR-Activating
-Mutation In Non- Small Cell Lung Cancer'
+title: 'Inhibitory-autapse-enhanced signal transmission in neural networks.'
 authors:
   - Chenggui Yao
   - Zhiwei He
@@ -26,7 +24,7 @@ publishDate: '2019-06-11T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Inhibitory-autapse-enhanced signal transmission in neural networks. Nonlinear Dyn 97, 1425–1437
+publication:  Nonlinear Dyn 97, 1425–1437
 publication_short: 
 
 abstract: The multi-frequency hybrid signal is an important stimulus from the external environment on the neuronal networks for detection. The mechanism of the detection may be understood by the vibrational resonance, in which the moderate intensity of high-frequency force can amplify the response of neuronal systems to the low-frequency signal. In this paper, the effects of electrical and chemical autapses on signal transmission are investigated in scale-free and small-world neuronal networks, where an external two-frequency signal is introduced only to one neuron as a pacemaker. We observed that the inhibitory autapse can significantly enhance the signal propagation by the vibrational resonance, while the electrical and excitatory autapses typically weaken the signal transmission, indicating that the inhibitory autapse is more beneficial to transmit the rhythm of the pacemaker to the whole networks. These findings contribute to our understanding of signal detection and information processing in the autapic neuronal system.

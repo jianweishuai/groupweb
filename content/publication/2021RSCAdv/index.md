@@ -1,8 +1,6 @@
 ---
-title: 'RIP1-dependent linear and nonlinear
-recruitments of caspase-8 and RIP3
-respectively to necrosome specify distinct cell
-death outcomes'
+title: 'Bain and Nishiyama–Wassermann transition path
+separation in the martensitic transitions of Fe'
 authors:
  - L. H. Zhang
  -  M. J. Cheng

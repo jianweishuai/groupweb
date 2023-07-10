@@ -1,20 +1,28 @@
 ---
-title: 'The Oscillation Amplitude, Not the Frequency of
-Cytosolic Calcium, Regulates Apoptosis Induction
-'
+title: 'Anti-cross-correlation between the adjacent open and closed durations of Markovian channels'
 authors:
- - Hong Qi
- -  Xiang Li
- - Zhen Jin
- - Thomas Simmen
+ - Yandong Huang
+ -  Jing Qu
+ - Xiang Li
+ - Fang Wei
+ - Jinjin Zhong
+ - Yuning Wu
+ - Meichun Cai
+ - Xuejuan Gao
+ - John E. Pearson
  - Jianwei Shuai
 
  
 
 
 author_notes:
- -  Corresponding author
+ - 
  -  
+ - 
+ - 
+ - 
+ - 
+ - 
  - 
  - 
  - Corresponding author
@@ -33,7 +41,7 @@ publishDate: '2020-10-11T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: iScience 23, 101671
+publication: PHYSICAL REVIEW E 101, 012418 (2020)
 
 publication_short: 
 

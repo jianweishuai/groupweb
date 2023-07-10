@@ -1,7 +1,6 @@
 ---
-title: 'Enhanced multiple vibrational
-resonances by Na1 and K1 dynamics in a
-neuron model'
+title: 'Frequency and Relative Prevalence of Calcium Blips and Puffs in a Model
+of Small IP3R Clusters'
 authors:
   - Hong Qi
   -  Yandong Huang
