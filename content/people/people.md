@@ -18,8 +18,8 @@ content:
   user_groups:
     - Researchers
     - Teachers
-    - Collaborators
     - Students
+    - Collaborators
     - Administration
     - Visitors
     - Alumni
