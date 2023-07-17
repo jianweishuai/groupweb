@@ -1,16 +1,16 @@
 ---
 title: 'Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics'
 authors:
-  - Ye Qiu
-  - Dongdong Liu
-  - Guoyu Yang
-  - Dezhen Qi
-  - Yuer Lu
+  - Mingxuan Gao
+  - Wenxian Yang
+  - Chenxin Li
+  - Yuqing Chang
+  - Yachen Liu
   - Qingzu He
-  - Xiangyu Qian
-  - Xiang Li
-  - Yuping Cao
+  - Chuan-Qi Zhong
   - Jianwei Shuai
+  -  Rongshan Yu
+  - Jiahuai Han
 author_notes:
   - 
   - 
@@ -23,11 +23,11 @@ author_notes:
   - Corresponding author
   - Corresponding author
 
-date: '2021-07-175T00:00:00Z'
-doi: ' https://doi.org/10.1016/j.bspc.2021.103001'
+date: '2021-10-14T00:00:00Z'
+doi: ' https://doi.org/10.1038/s42003-021-02726-6'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-07-17T00:00:00Z'
+publishDate: '2021-10-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,10 +36,11 @@ publishDate: '2021-07-17T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Brain Sci. 2021, 11, 1274
+publication: Communications Biology volume 4, Article number 1190 (2021) 
 publication_short: 
 
-abstract: Blood pressure (BP) assessment and dynamic detection are of great significance for timely detection of the morbidity of hypertension, which is a major risk factor for most cardiovascular diseases (CVDs). It has been proved that the dynamic BP can be effectively predicted by using the combined input of photoplethysmogram (PPG) and electrocardiographic (ECG) signals. In this paper, we proposed a hybrid neural network architecture, which contains CNN-Sequential-Adapt layer, ResNet25_BP layer with squeeze and excitation (SE) block and fully connected layers, for BP estimation. The structure based on the convolutional network aims at the current inputs, which can effectively absorb the graph information of the inputted biological signals and make the model more stable and reliable. We evaluated the performance of two datasets including 1216 and 40 subjects, based on the criterions of British Hypertension Society (BHS) and the Association for the Advancement of Medical Instrumentation (AAMI). According to the BHS and AAMI standards, the outputs of the model achieved grade A on BHS and met the AAMI criteria. The mean absolute errors (MAE) of systolic BP and diastolic BP are 3.70 and 2.81 mmHg in the large dataset, and 1.37 and 0.93 mmHg in the small dataset, respectively. 
+abstract: We developed DreamDIAXMBD (denoted as DreamDIA), a software suite based on a deep representation model for data-independent acquisition (DIA) data analysis. DreamDIA adopts a data-driven strategy to capture comprehensive information from elution patterns of peptides in DIA data and achieves considerable improvements on both identification and quantification performance compared with other state-of-the-art methods such as OpenSWATH, Skyline and DIA-NN. Specifically, in contrast to existing methods which use only 6 to 10 selected fragment ions from spectral libraries,DreamDIA extracts additional features from hundreds of theoretical elution profiles originated from different ions of each precursor using a deep representation network.To achieve higher coverage of target peptides without sacrificing specificity, the extracted features are further processed by nonlinear discriminative models under the framework of positive-unlabeled learning with decoy peptides as affirmative negative controls. DreamDIA is publicly available at https://github.com/xmuyulab/DreamDIA-XMBD for high coverage and accuracy DIA data analysis.
+
 
 
 # Summary. An optional shortened abstract.

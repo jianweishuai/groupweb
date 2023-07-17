@@ -1,6 +1,6 @@
 ---
-title: '应用免疫算法研究肌醇 1,4,5鄄磷酸三酯
-受体通道模型参数分布特性'
+title: 'Time delay induced different synchronization patterns in repulsively coupled
+chaotic oscillators'
 authors:
   - Chenggui Yao
   -  Ming Yi
