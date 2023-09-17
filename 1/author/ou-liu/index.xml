@@ -5,12 +5,52 @@
     <link>https://jianweishuai.github.io/groupweb/author/ou-liu/</link>
       <atom:link href="https://jianweishuai.github.io/groupweb/author/ou-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ou Liu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Ou Liu</title>
       <link>https://jianweishuai.github.io/groupweb/author/ou-liu/</link>
     </image>
+    
+    <item>
+      <title>Revolutionizing Infection Risk Scoring: An Ensemble “From Weak to Strong” Deduction Strategy and Enhanced Point-of-Care Testing Tools</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023ais%E6%B5%A9%E6%BB%A1/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023ais%E6%B5%A9%E6%BB%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent monitoring and diagnosis of telescope image quality </title>
+      <link>https://jianweishuai.github.io/groupweb/publication/mnras2023/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/mnras2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neural Inference of User Social Interest for Item Recommendation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023dse/</link>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023dse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Algorithm for the Joint Replenishment Problem with Quantity Discounts, Minimum Order Quantity and Transport Capacity Constraints</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/mathematics-11-01012-v3/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/mathematics-11-01012-v3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Business Analytics: Definitions, Techniques, Applications and Challenges</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/mathematics-11-00899-v2/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/mathematics-11-00899-v2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring depression severity based on facial expression and body movement using deep convolutional neural network</title>

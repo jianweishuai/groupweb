@@ -5,12 +5,76 @@
     <link>https://jianweishuai.github.io/groupweb/author/jianwei-shuai/</link>
       <atom:link href="https://jianweishuai.github.io/groupweb/author/jianwei-shuai/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianwei Shuai</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Jianwei Shuai</title>
       <link>https://jianweishuai.github.io/groupweb/author/jianwei-shuai/</link>
     </image>
+    
+    <item>
+      <title>Polygenic regression uncovers trait-relevant cellular contexts through pathway activation transformation of single-cell RNA sequencing data</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023cellgen%E5%BB%BA%E5%BF%A0/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023cellgen%E5%BB%BA%E5%BF%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revolutionizing Infection Risk Scoring: An Ensemble “From Weak to Strong” Deduction Strategy and Enhanced Point-of-Care Testing Tools</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023ais%E6%B5%A9%E6%BB%A1/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023ais%E6%B5%A9%E6%BB%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting metabolite–disease associations based on auto-encoder and non-negative matrix factorization</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023-bib-2/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023-bib-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The power law statistics of the spiking timing in a neuronal network</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023chaossf%E5%A7%9A/</link>
+      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023chaossf%E5%A7%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A physical understanding and quantification for the regulation of orexin on sleep</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023chaos%E5%A7%9A/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023chaos%E5%A7%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying SARS-CoV-2 infected cells with scVDN</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023fim%E8%83%A1%E6%A1%93/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023fim%E8%83%A1%E6%A1%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitochondrial outer membrane permeabilization and inner membrane permeabilization in regulating apoptosis and inflammation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023jtb-%E7%A5%81%E5%AE%8F/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023jtb-%E7%A5%81%E5%AE%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: The pathogenesis and intervention of sleep disorders</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023fineuros/</link>
+      <pubDate>Mon, 10 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023fineuros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
@@ -49,6 +113,14 @@
       <link>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://jianweishuai.github.io/groupweb/publication/2023weicy-fronmicrob/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specificity and competition of mRNAs dominate droplet pattern in protein phase separation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023prr%E5%BE%90%E9%A3%9E/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023prr%E5%BE%90%E9%A3%9E/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>https://jianweishuai.github.io/groupweb/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/</link>
       <atom:link href="https://jianweishuai.github.io/groupweb/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>帅建伟</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianweishuai.github.io/groupweb/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/avatar_hu596d535c73fc631dfdac59a68e11f745_4645_270x270_fill_q75_lanczos_center.jpg</url>
       <title>帅建伟</title>
       <link>https://jianweishuai.github.io/groupweb/author/%E5%B8%85%E5%BB%BA%E4%BC%9F/</link>
     </image>
+    
+    <item>
+      <title>深度神经网络筛选蛋白质组学高置信度定量 肽段</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023biphy%E9%83%AD%E6%AC%A2/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023biphy%E9%83%AD%E6%AC%A2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>基于深度学习算法的抑郁症表情与动作及其心理整合变化的过程分析</title>

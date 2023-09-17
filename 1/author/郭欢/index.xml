@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>郭欢 | 帅建伟课题组</title>
+    <link>https://jianweishuai.github.io/groupweb/author/%E9%83%AD%E6%AC%A2/</link>
+      <atom:link href="https://jianweishuai.github.io/groupweb/author/%E9%83%AD%E6%AC%A2/index.xml" rel="self" type="application/rss+xml" />
+    <description>郭欢</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
+      <title>郭欢</title>
+      <link>https://jianweishuai.github.io/groupweb/author/%E9%83%AD%E6%AC%A2/</link>
+    </image>
+    
+    <item>
+      <title>深度神经网络筛选蛋白质组学高置信度定量 肽段</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023biphy%E9%83%AD%E6%AC%A2/</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023biphy%E9%83%AD%E6%AC%A2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

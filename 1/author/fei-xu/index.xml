@@ -5,12 +5,20 @@
     <link>https://jianweishuai.github.io/groupweb/author/fei-xu/</link>
       <atom:link href="https://jianweishuai.github.io/groupweb/author/fei-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Fei Xu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Fei Xu</title>
       <link>https://jianweishuai.github.io/groupweb/author/fei-xu/</link>
     </image>
+    
+    <item>
+      <title>A physical understanding and quantification for the regulation of orexin on sleep</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023chaos%E5%A7%9A/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023chaos%E5%A7%9A/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
@@ -25,6 +33,14 @@
       <link>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://jianweishuai.github.io/groupweb/publication/huhuanbib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specificity and competition of mRNAs dominate droplet pattern in protein phase separation</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023prr%E5%BE%90%E9%A3%9E/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023prr%E5%BE%90%E9%A3%9E/</guid>
       <description></description>
     </item>
     

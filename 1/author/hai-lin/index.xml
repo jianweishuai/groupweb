@@ -5,12 +5,20 @@
     <link>https://jianweishuai.github.io/groupweb/author/hai-lin/</link>
       <atom:link href="https://jianweishuai.github.io/groupweb/author/hai-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Hai Lin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jianweishuai.github.io/groupweb/media/icon_hu61b400ad93ce59918a34fe4998362a37_15357_512x512_fill_lanczos_center_3.png</url>
       <title>Hai Lin</title>
       <link>https://jianweishuai.github.io/groupweb/author/hai-lin/</link>
     </image>
+    
+    <item>
+      <title>Identifying SARS-CoV-2 infected cells with scVDN</title>
+      <link>https://jianweishuai.github.io/groupweb/publication/2023fim%E8%83%A1%E6%A1%93/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jianweishuai.github.io/groupweb/publication/2023fim%E8%83%A1%E6%A1%93/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gene function and cell surface protein association analysis based on single-cell multiomics data</title>
